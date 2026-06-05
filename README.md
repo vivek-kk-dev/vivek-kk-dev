@@ -31,8 +31,8 @@
 
 <p align="center">
 <a href="https://github.com/vivek-kk-dev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vivek-kk-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vivek-kk-dev&layout=compact&langs_count=8&theme=algolia&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivek-kk-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivek-kk-dev&layout=compact&langs_count=8&theme=algolia&bg_color=000000"/>
 </a>
 </p>
 
